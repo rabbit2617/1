@@ -1,0 +1,26 @@
+table{
+    border-collapse:separate;
+    border-spacing: 0;
+}
+.cute{
+    background-color:blue;
+}
+.adi{
+    background-color: blue;
+}
+.may{
+    background-color: blue;
+}
+.may{border-top-left-radius: 20px;}
+.jed{
+    background-color: blue;
+}
+.jed{
+    border-top-right-radius: 20px;
+}
+.ad{
+    background-color: blue;
+}
+.ad{
+    border-bottom-left-radius: 20px;
+}
